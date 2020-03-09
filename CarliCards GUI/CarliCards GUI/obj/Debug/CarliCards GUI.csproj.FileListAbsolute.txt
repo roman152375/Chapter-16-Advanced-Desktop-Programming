@@ -1,0 +1,23 @@
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\bin\Debug\CarliCards GUI.exe.config
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\bin\Debug\CarliCards GUI.exe
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\bin\Debug\CarliCards GUI.pdb
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI.csprojAssemblyReference.cache
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\About.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\GameClient.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\MainWindow.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\Options.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\StartGame.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\App.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI_MarkupCompile.cache
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI_MarkupCompile.lref
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\About.baml
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\GameClient.baml
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\MainWindow.baml
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\Options.baml
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\StartGame.baml
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI.g.resources
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards_GUI.Properties.Resources.resources
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI.csproj.GenerateResource.cache
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI.exe
+C:\Roman Visual Studio\CarliCards GUI\CarliCards GUI\obj\Debug\CarliCards GUI.pdb
